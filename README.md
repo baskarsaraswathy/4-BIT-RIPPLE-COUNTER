@@ -69,8 +69,8 @@ endmodule
 ```
 Program for logic gates and verify its truth table in quartus using Verilog programming.
 
-# Developed by : PRIDEESH M 
-# RegisterNumber : 212223040154
+# Developed by : BASKAR  J
+# RegisterNumber : 212223040025
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 ![330457628-bb799b35-431b-464f-a115-a4ea82fd8d48](https://github.com/baskarsaraswathy/4-BIT-RIPPLE-COUNTER/assets/144871005/a0d3aa3d-b3b0-4ce0-89bb-bfa1a8abde7c)
